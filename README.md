@@ -1,2 +1,2 @@
 # minor
-https://booben4ik.github.io/minor/practise.html
+https://booben4ik.github.io/minor/site/index.html
