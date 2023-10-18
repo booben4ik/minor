@@ -1,2 +1,2 @@
 # minor
-https://booben4ik.github.io/minor/first%page.html
+https://booben4ik.github.io/minor/first_page.html
